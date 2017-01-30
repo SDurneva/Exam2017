@@ -31,7 +31,7 @@ def comms_rawf():
         g = re.search('муж|жен|мж',line)
         if g:
            gender = g.group(0)
-           genders.append(gender + ', ')
+           genders.append(gender)
     print(len(genders))
     print(names)
     print(types)

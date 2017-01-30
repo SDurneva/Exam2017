@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ee93014-648a-4993-8106-27019c81ac1d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3.py" afterPath="$PROJECT_DIR$/3.py" />
     </list>
     <ignored path="Exam2017.iws" />
@@ -31,13 +30,13 @@
       <file leaf-file-name="3.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+            <state relative-caret-position="210">
+              <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
-                <marker date="1485775616000" expanded="true" signature="1143:1155" ph="INSERT INTO Text... " />
-                <marker date="1485775616000" expanded="true" signature="1143:1213" ph="INSERT INTO names... " />
-                <marker date="1485775616000" expanded="true" signature="1208:1213" ph="INSERT INTO Tokens... " />
+                <marker date="1485776597000" expanded="true" signature="1136:1148" ph="INSERT INTO Text... " />
+                <marker date="1485776597000" expanded="true" signature="1136:1206" ph="INSERT INTO names... " />
+                <marker date="1485776597000" expanded="true" signature="1201:1206" ph="INSERT INTO Tokens... " />
               </folding>
             </state>
           </provider>
@@ -448,13 +447,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+        <state relative-caret-position="210">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <marker date="1485775616000" expanded="true" signature="1143:1155" ph="INSERT INTO Text... " />
-            <marker date="1485775616000" expanded="true" signature="1143:1213" ph="INSERT INTO names... " />
-            <marker date="1485775616000" expanded="true" signature="1208:1213" ph="INSERT INTO Tokens... " />
+            <marker date="1485776597000" expanded="true" signature="1136:1148" ph="INSERT INTO Text... " />
+            <marker date="1485776597000" expanded="true" signature="1136:1206" ph="INSERT INTO names... " />
+            <marker date="1485776597000" expanded="true" signature="1201:1206" ph="INSERT INTO Tokens... " />
           </folding>
         </state>
       </provider>
