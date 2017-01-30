@@ -37,7 +37,7 @@ def comms_rawf():
     print(types)
     print(genders)
     comms_raw = ['{}{}{}{}'.format(x, y, z, n) for x, y, z, n in zip(IDs, names, types, genders)]
-    print(type(comms_raw))
+    return comms_raw
 
 def make_inserts(comms_raw):
     with open('commands.txt', 'w',encoding='utf-8') as file:
@@ -48,7 +48,7 @@ def make_inserts(comms_raw):
 
 
 def main():
-    comms_rawf()
+    make_inserts(comms_rawf())
     print("--- %s seconds ---" % (time.time() - start_time))
 
 if __name__ == "__main__":
