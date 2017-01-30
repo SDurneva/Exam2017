@@ -6,7 +6,7 @@ start_time = time.time()
 
 
 def task1():
-    directory = '/Users/sea_fog/Documents/github/exam_january/subs'
+    directory = '/Users/sea_fog/Documents/github/Exam2017/subs'
     files = os.listdir(directory)
     n = open('allsubs.txt', 'w', encoding='utf-8')
     m = str()
@@ -15,8 +15,8 @@ def task1():
         m = m + f.read()
         f.close()
     n.write(m)
-    allsubs_dir = '/Users/sea_fog/Documents/github/exam_january/allsubs.txt'
-    allsubs_mystemmed = '/Users/sea_fog/Documents/github/exam_january/allsubs_mystemmed.txt'
+    allsubs_dir = '/Users/sea_fog/Documents/github/Exam2017/allsubs.txt'
+    allsubs_mystemmed = '/Users/sea_fog/Documents/github/Exam2017/allsubs_mystemmed.txt'
     os.system('./mystem -ni ' + allsubs_dir + ' ' + allsubs_mystemmed)
     f = open('allsubs_mystemmed.txt', 'r', encoding='utf-8')
     a = f.readlines()
